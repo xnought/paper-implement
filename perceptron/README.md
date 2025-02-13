@@ -5,7 +5,6 @@ The paper that started it all.
 ## Implementations
 
 - Single Perceptron binary linear classifier
-- Multi-Layer Perceptron binary non-linear classifier
 
 ## Papers
 - https://www.ling.upenn.edu/courses/cogs501/Rosenblatt1958.pdf
