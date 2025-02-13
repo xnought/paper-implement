@@ -1,4 +1,4 @@
-# paper-replicate
+# paper-implement
 
 Replication/Implementations of random ML or other papers for educational purposes.
 
