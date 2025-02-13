@@ -1,6 +1,6 @@
 # paper-replicate
 
-Replication/Implementations of random ML other papers for educational purposes.
+Replication/Implementations of random ML or other papers for educational purposes.
 
 
 | Paper          | My Code                        | 
