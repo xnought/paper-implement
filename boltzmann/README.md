@@ -2,7 +2,7 @@
 
 ## Implementations
 
-- TODO
+- full_boltzmann_machine.ipynb (work in progress)
 
 ## Papers
 

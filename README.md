@@ -5,4 +5,5 @@ Replication/Implementations of random ML or other papers for educational purpose
 | Paper              | My Code                        |
 | ------------------ | ------------------------------ |
 | The Perceptron     | [`perceptron/`](./perceptron/) |
-| Boltzmann Machines | [`boltzmann/`](./boltzmann/) (Work in progress)   |
+| Boltzmann Machines | [`boltzmann/`](./boltzmann/)   |
+| Adam | TODO   |
