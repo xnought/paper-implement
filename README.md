@@ -11,6 +11,6 @@ Replication/Implementations of random ML or other papers for educational purpose
 ## Things I want to learn?
 
 - Distributed training / inference
-- Hacks to massage the loss surface
+- Hacks to massage the loss surface (hyperparam choice, normalization, ...)
 - Optimizers
 - Reinforcement Learning
