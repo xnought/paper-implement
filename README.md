@@ -6,11 +6,5 @@ Replication/Implementations of random ML or other papers for educational purpose
 | ------------------------------------------------------------------------------------------- | ------------------------------ |
 | The Perceptron: A Probabilistic Model for Information Storage and Organization in the Brain | [`perceptron/`](./perceptron/) |
 | A Learning Algorithm for Boltzmann Machines                                                 | [`boltzmann/`](./boltzmann/)   |
-| The First Law of Complexodynamics                                                           | [`complexo`](./complexo/)      |
+| The First Law of Complexodynamics                                                           | [`complexo/`](./complexo/)      |
 
-## Things I want to learn?
-
-- Distributed training / inference
-- Hacks to massage the loss surface (hyperparam choice, normalization, ...)
-- Optimizers
-- Reinforcement Learning
