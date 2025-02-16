@@ -2,7 +2,7 @@
 
 Reading/Replication/Implementations of random ML or other papers for educational purposes. Paper links are in each specific directories README.
 
-ps: If I am totally bored of something, there won't be the full implementation.
+ps: If I am totally bored of something, there won't be the full implementation. This repo is more for me to keep track of what I've been working on rather than for you :)
 
 | Paper                                                                                       | My Code                        |
 | ------------------------------------------------------------------------------------------- | ------------------------------ |
