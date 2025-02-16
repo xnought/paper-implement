@@ -1,6 +1,8 @@
 # paper-implement
 
-Replication/Implementations of random ML or other papers for educational purposes. Paper links are in each specific directories README.
+Reading/Replication/Implementations of random ML or other papers for educational purposes. Paper links are in each specific directories README.
+
+ps: If I am totally bored of something, there won't be the full implementation.
 
 | Paper                                                                                       | My Code                        |
 | ------------------------------------------------------------------------------------------- | ------------------------------ |
