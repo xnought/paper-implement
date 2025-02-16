@@ -8,3 +8,4 @@ Replication/Implementations of random ML or other papers for educational purpose
 | A Learning Algorithm for Boltzmann Machines                                                 | [`boltzmann/`](./boltzmann/)   |
 | The First Law of Complexodynamics                                                           | [`complexo/`](./complexo/)     |
 | Adam: A Method For Stochastic Optimization                                                  | [`adam/`](./adam/)             |
+| Old Optimizer, New Norm: An Anthology                                                       | [`norm`](./norm/)              |
