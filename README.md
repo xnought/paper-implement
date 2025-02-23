@@ -4,6 +4,8 @@ Reading/Replication/Implementations of random ML or other papers for educational
 
 ps: If I am totally bored of something, there won't be the full implementation. This repo is more for me to keep track of what I've been working on rather than for you :)
 
+**Implementations:** (status ✅ indicates finished code, blank indicates not finished)
+
 | Paper                                                                                       | My Code                            | Status |
 | ------------------------------------------------------------------------------------------- | ---------------------------------- | ------ |
 | The Perceptron: A Probabilistic Model for Information Storage and Organization in the Brain | [`perceptron/`](./perceptron/)     | ✅     |
