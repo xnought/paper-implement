@@ -4,11 +4,12 @@ Reading/Replication/Implementations of random ML or other papers for educational
 
 ps: If I am totally bored of something, there won't be the full implementation. This repo is more for me to keep track of what I've been working on rather than for you :)
 
-| Paper                                                                                       | My Code                        |
-| ------------------------------------------------------------------------------------------- | ------------------------------ |
-| The Perceptron: A Probabilistic Model for Information Storage and Organization in the Brain | [`perceptron/`](./perceptron/) |
-| A Learning Algorithm for Boltzmann Machines                                                 | [`boltzmann/`](./boltzmann/)   |
-| The First Law of Complexodynamics                                                           | [`complexo/`](./complexo/)     |
-| Adam: A Method For Stochastic Optimization                                                  | [`adam/`](./adam/)             |
-| Old Optimizer, New Norm: An Anthology                                                       | [`norm/`](./norm/)             |
-| Bitcoin: A Peer-to-Peer Electronic Cash System                                              | [`bitcoin/`](./bitcoin/)       |
+| Paper                                                                                       | My Code                            | Status |
+| ------------------------------------------------------------------------------------------- | ---------------------------------- | ------ |
+| The Perceptron: A Probabilistic Model for Information Storage and Organization in the Brain | [`perceptron/`](./perceptron/)     | ✅     |
+| A Learning Algorithm for Boltzmann Machines                                                 | [`boltzmann/`](./boltzmann/)       | ✅     |
+| The First Law of Complexodynamics                                                           | [`complexo/`](./complexo/)         | ✅     |
+| Adam: A Method For Stochastic Optimization                                                  | [`adam/`](./adam/)                 | ✅     |
+| Old Optimizer, New Norm: An Anthology                                                       | [`norm/`](./norm/)                 |        |
+| Bitcoin: A Peer-to-Peer Electronic Cash System                                              | [`bitcoin/`](./bitcoin/)           |        |
+| Ramachandran Plot                                                                           | [`ramachandran/`](./ramachandran/) |        |
