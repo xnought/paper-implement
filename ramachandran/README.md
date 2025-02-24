@@ -1,6 +1,6 @@
 # Ramachandran Plot
 
-I want to read from a protein and plot out all the torsion angles.
+I want to read from a protein and plot out all the torsion angles. The final plot is in [`torsion_pdb.ipynb`](./torsion_pdb.ipynb).
 
 ## Papers
 
