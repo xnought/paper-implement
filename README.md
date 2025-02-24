@@ -14,4 +14,4 @@ ps: If I am totally bored of something, there won't be the full implementation. 
 | Adam: A Method For Stochastic Optimization                                                  | [`adam/`](./adam/)                 | ✅     |
 | Old Optimizer, New Norm: An Anthology                                                       | [`norm/`](./norm/)                 |        |
 | Bitcoin: A Peer-to-Peer Electronic Cash System                                              | [`bitcoin/`](./bitcoin/)           |        |
-| Ramachandran Plot                                                                           | [`ramachandran/`](./ramachandran/) |        |
+| Ramachandran Plot                                                                           | [`ramachandran/`](./ramachandran/) | ✅     |
