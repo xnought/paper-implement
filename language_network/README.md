@@ -1,7 +1,7 @@
 ## Plan
 
 - [x] Read the paper
-- [ ] Reimplement using the hugging face API
+- [ ] Implement around the activation step 
 - [ ] Extend somehow (other model?) put this in separate repo
 
 ## Data
