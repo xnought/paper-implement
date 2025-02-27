@@ -34,3 +34,9 @@
 - What does it mean to ablate? Do they set the output to be 0 randomly? Probably.
 - What hyperparameters did they use? Like temperature? Or maybe they didn't do that at all and just shoved the entire string in there and get activation for it all. Yeah they did that, so no prediction ever needed.
 - But they would need temperature when showing the generations?  
+
+## Thoughts
+
+- I could repeat a similar study but on the FFA for imagenet trained models. If I use a localizer for faces, then ablate the top 1% of units, would the performance drop significantly for images with faces in them, but stay good for those with no faces? 
+- The nice thing about doing this for those models is they are much smaller models and can fit on my machine.
+- 
