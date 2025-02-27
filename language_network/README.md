@@ -1,9 +1,8 @@
 ## Plan
 
 - [x] Read the paper
-- [ ] Reimplement the paper
-- [ ] General framework for Torch or Jax, or maybe ONNX as a intermediate format, to perform these comparisons?
-- [ ] ...
+- [ ] Perform same analysis on FFA and Resnet
+- [ ] Stretch Goal: write general framework model agnostic w/ analysis automatically
 
 ## Papers
 
