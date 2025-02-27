@@ -1,8 +1,8 @@
 ## Plan
 
 - [x] Read the paper
-- [ ] Perform same analysis on FFA and Resnet
-- [ ] Stretch Goal: write general framework model agnostic w/ analysis automatically
+- [ ] Reimplement using the hugging face API
+- [ ] Extend somehow (other model?) put this in separate repo
 
 ## Papers
 
