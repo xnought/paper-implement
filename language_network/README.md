@@ -4,6 +4,10 @@
 - [ ] Reimplement using the hugging face API
 - [ ] Extend somehow (other model?) put this in separate repo
 
+## Data
+
+- https://huggingface.co/datasets/dair-ai/emotion/ (used subset of validation set)
+
 ## Papers
 
 - https://arxiv.org/abs/2411.02280
