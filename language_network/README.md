@@ -1,9 +1,7 @@
-## Plan
+## Extension
 
-- [x] Read the paper
-- [x] Implement around the activation step 
-- [ ] Ablate neurons and see if hateful sentences turn positive
-- [ ] Extend somehow (other model?) put this in separate repo
+This is such an interesting idea that I started a whole other project working on applying the same 
+idea to other models.
 
 ## Data
 
