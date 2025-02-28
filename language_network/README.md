@@ -1,7 +1,8 @@
 ## Plan
 
 - [x] Read the paper
-- [ ] Implement around the activation step 
+- [x] Implement around the activation step 
+- [ ] Ablate neurons and see if the performance drops
 - [ ] Extend somehow (other model?) put this in separate repo
 
 ## Data
