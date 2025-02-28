@@ -2,7 +2,7 @@
 
 - [x] Read the paper
 - [x] Implement around the activation step 
-- [ ] Ablate neurons and see if the performance drops
+- [ ] Ablate neurons and see if hateful sentences turn positive
 - [ ] Extend somehow (other model?) put this in separate repo
 
 ## Data
