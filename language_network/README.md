@@ -3,6 +3,8 @@
 This is such an interesting idea that I started a whole other project working on applying the same 
 idea to other models.
 
+Work in progress: https://github.com/xnought/deep-localizer
+
 ## Data
 
 - https://huggingface.co/datasets/dair-ai/emotion/ (used subset of validation set)
