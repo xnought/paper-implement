@@ -16,4 +16,4 @@ ps: If I am totally bored of something, there won't be the full implementation. 
 | Bitcoin: A Peer-to-Peer Electronic Cash System                                                    | [`bitcoin/`](./bitcoin/)                   |        |
 | Ramachandran Plot                                                                                 | [`ramachandran/`](./ramachandran/)         | ✅     |
 | The LLM Language Network: A Neuroscientific Approach for Identifying Causally Task-Relevant Units | [`language_network/`](./language_network/) | ✅     |
-| Fast Fourier Transform (An Algorithm for the Machine Calculation of Complex Fourier Series)       | [`fft/`](./fft/)                           |        |
+| Fast Fourier Transform (An Algorithm for the Machine Calculation of Complex Fourier Series)       | [`fft/`](./fft/)                           | ✅     |
