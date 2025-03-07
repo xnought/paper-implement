@@ -1,5 +1,9 @@
 # Adam optimizer
 
+## Implementations
+
+- [`adam.ipynb`](./adam.ipynb)
+
 ## Papers
 
 - https://arxiv.org/pdf/1412.6980
