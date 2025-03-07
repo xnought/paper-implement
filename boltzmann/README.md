@@ -2,7 +2,7 @@
 
 ## Implementations
 
-- full_boltzmann_machine.ipynb (work in progress)
+- [`full_boltzmann_machine.ipynb`](https://github.com/xnought/paper-implement/blob/main/boltzmann/full_boltzmann_machine.ipynb)
 
 ## Papers
 

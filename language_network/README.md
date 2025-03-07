@@ -1,3 +1,12 @@
+# Finding the Language Network in LLMs
+
+## Implementations
+
+- [`data.ipynb`](https://github.com/xnought/paper-implement/blob/main/language_network/data.ipynb)
+- [`forward_hf.ipynb`](https://github.com/xnought/paper-implement/blob/main/language_network/forward_hf.ipynb)
+- [`analysis.ipynb`](https://github.com/xnought/paper-implement/blob/main/language_network/analysis.ipynb)
+
+
 ## Extension
 
 This is such an interesting idea that I started a whole other project working on applying the same 
@@ -8,6 +17,7 @@ Work in progress: https://github.com/xnought/deep-localizer
 ## Data
 
 - https://huggingface.co/datasets/dair-ai/emotion/ (used subset of validation set)
+
 
 ## Papers
 

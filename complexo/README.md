@@ -1,5 +1,9 @@
 # The First Law of Complexodynamics
 
+## Implementations
+
+- [`complexodynamics.ipynb`](https://github.com/xnought/paper-implement/blob/main/compexlo/complexodynamics.ipynb)
+
 ## Papers
 
 - https://scottaaronson.blog/?p=762

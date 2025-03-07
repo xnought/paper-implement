@@ -1,3 +1,10 @@
+# FFT
+
+## Implementations
+
+- [`dft2.ipynb`](https://github.com/xnought/paper-implement/blob/main/fft/dft2.ipynb)
+- [`fft.ipynb`](https://github.com/xnought/paper-implement/blob/main/fft/fft.ipynb)
+
 ## Papers
 
 - https://web.stanford.edu/class/cme324/classics/cooley-tukey.pdf (original paper)

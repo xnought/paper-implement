@@ -1,6 +1,11 @@
 # Ramachandran Plot
 
-I want to read from a protein and plot out all the torsion angles. The final plot is in [`torsion_pdb.ipynb`](./torsion_pdb.ipynb).
+
+## Implementations
+
+- [`torsion_pdb.ipynb`](https://github.com/xnought/paper-implement/blob/main/ramachandran/torsion_pdb.ipynb) (final result)
+- [`torsion.ipynb`](https://github.com/xnought/paper-implement/blob/main/ramachandran/torsion.ipynb)
+
 
 ## Papers
 

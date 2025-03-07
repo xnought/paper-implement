@@ -1,5 +1,10 @@
 # Bitcoin
 
+## Implementations
+
+- [`simple_ledger.ipynb`](https://github.com/xnought/paper-implement/blob/main/bitcoin/simple_ledger.ipynb)
+- [`ledger_signed.ipynb`](https://github.com/xnought/paper-implement/blob/main/bitcoin/ledger_signed.ipynb)
+
 ## Papers
 
 - https://bitcoin.org/bitcoin.pdf

@@ -1,10 +1,8 @@
 # The Perceptron 
 
-The paper that started it all.
-
 ## Implementations
 
-- Single Perceptron binary linear classifier
+- [`single_perceptron.ipynb`](https://github.com/xnought/paper-implement/blob/main/perceptron/single_perceptron.ipynb)
 
 ## Papers
 - https://www.ling.upenn.edu/courses/cogs501/Rosenblatt1958.pdf
