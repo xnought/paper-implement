@@ -2,7 +2,7 @@
 
 ## Implementations
 
-- [`single_perceptron.ipynb`](https://github.com/xnought/paper-implement/blob/main/perceptron/single_perceptron.ipynb)
+- [`single_perceptron.ipynb`](https://github.com/xnought/paper-implement/blob/main/perceptron/single_perceptron.ipynb){:target="_blank"}
 
 ## Papers
 - https://www.ling.upenn.edu/courses/cogs501/Rosenblatt1958.pdf
