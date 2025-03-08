@@ -1,6 +1,7 @@
 [Paper Implement Code](https://github.com/xnought/paper-implement/tree/main)
 
 **Key:** (status ✅ indicates finished code, blank indicates not finished or will come back to later)
+
 | Paper                                                                                             | My Code                                    | Status |
 | ------------------------------------------------------------------------------------------------- | ------------------------------------------ | ------ |
 | The Perceptron: A Probabilistic Model for Information Storage and Organization in the Brain       | [`perceptron/`](./perceptron/)             | ✅     |
