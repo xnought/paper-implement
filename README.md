@@ -1,11 +1,6 @@
 [Paper Implement Code](https://github.com/xnought/paper-implement/tree/main)
 
-Reading/Replication/Implementations of random ML or other papers for educational purposes. Paper links are in each specific directories README.
-
-ps: If I am totally bored of something, there won't be the full implementation. This repo is more for me to keep track of what I've been working on rather than for you :)
-
-**Implementations:** (status ✅ indicates finished code, blank indicates not finished or will come back to later)
-
+**Key:** (status ✅ indicates finished code, blank indicates not finished or will come back to later)
 | Paper                                                                                             | My Code                                    | Status |
 | ------------------------------------------------------------------------------------------------- | ------------------------------------------ | ------ |
 | The Perceptron: A Probabilistic Model for Information Storage and Organization in the Brain       | [`perceptron/`](./perceptron/)             | ✅     |
@@ -19,3 +14,6 @@ ps: If I am totally bored of something, there won't be the full implementation. 
 | Fast Fourier Transform (An Algorithm for the Machine Calculation of Complex Fourier Series)       | [`fft/`](./fft/)                           | ✅     |
 | Sparse Components Distinguish Visual Pathways & Their Alignment To Neural Networks                | [`sca/`](./sca/)                           |        |
 | Algorithms for Non-negative Matrix Factorization                                                  | [`nmf/`](./nmf/)                           | ✅     |
+
+
+ps: If I am totally bored of something, there won't be the full implementation. This repo is more for me to keep track of what I've been working on rather than for you :)
