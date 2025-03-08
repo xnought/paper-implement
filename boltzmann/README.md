@@ -2,7 +2,8 @@
 
 ## Implementations
 
-- [`full_boltzmann_machine.ipynb`](https://github.com/xnought/paper-implement/blob/main/boltzmann/full_boltzmann_machine.ipynb)
+- <a target="_blank" href="https://github.com/xnought/paper-implement/blob/main/boltzmann/full_boltzmann_machine.ipynb"><code>full_boltzmann_machine.ipynb</code></a>
+
 
 ## Papers
 

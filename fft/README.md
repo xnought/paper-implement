@@ -2,8 +2,8 @@
 
 ## Implementations
 
-- [`dft2.ipynb`](https://github.com/xnought/paper-implement/blob/main/fft/dft2.ipynb)
-- [`fft.ipynb`](https://github.com/xnought/paper-implement/blob/main/fft/fft.ipynb)
+- <a target="_blank" href="https://github.com/xnought/paper-implement/blob/main/fft/dft2.ipynb"><code>dft2.ipynb</code></a>
+- <a target="_blank" href="https://github.com/xnought/paper-implement/blob/main/fft/fft.ipynb"><code>fft.ipynb</code></a>
 
 ## Papers
 

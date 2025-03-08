@@ -2,9 +2,10 @@
 
 ## Implementations
 
-- [`data.ipynb`](https://github.com/xnought/paper-implement/blob/main/language_network/data.ipynb)
-- [`forward_hf.ipynb`](https://github.com/xnought/paper-implement/blob/main/language_network/forward_hf.ipynb)
-- [`analysis.ipynb`](https://github.com/xnought/paper-implement/blob/main/language_network/analysis.ipynb)
+- <a target="_blank" href="https://github.com/xnought/paper-implement/blob/main/language_network/data.ipynb"><code>data.ipynb</code></a>
+- <a target="_blank" href="https://github.com/xnought/paper-implement/blob/main/language_network/forward_hf.ipynb"><code>forward_hf.ipynb</code></a>
+- <a target="_blank" href="https://github.com/xnought/paper-implement/blob/main/language_network/analysis.ipynb"><code>analysis.ipynb</code></a>
+
 
 
 ## Extension

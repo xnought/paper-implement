@@ -2,8 +2,9 @@
 
 ## Implementations
 
-- [`simple_ledger.ipynb`](https://github.com/xnought/paper-implement/blob/main/bitcoin/simple_ledger.ipynb)
-- [`ledger_signed.ipynb`](https://github.com/xnought/paper-implement/blob/main/bitcoin/ledger_signed.ipynb)
+- <a target="_blank" href="https://github.com/xnought/paper-implement/blob/main/bitcoin/simple_ledger.ipynb"><code>simple_ledger.ipynb</code></a>
+- <a target="_blank" href="https://github.com/xnought/paper-implement/blob/main/bitcoin/ledger_signed.ipynb"><code>ledger_signed.ipynb</code></a>
+
 
 ## Papers
 

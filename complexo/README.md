@@ -2,7 +2,8 @@
 
 ## Implementations
 
-- [`complexodynamics.ipynb`](https://github.com/xnought/paper-implement/blob/main/compexlo/complexodynamics.ipynb)
+- <a target="_blank" href="https://github.com/xnought/paper-implement/blob/main/compexlo/complexodynamics.ipynb"><code>complexodynamics.ipynb</code></a>
+
 
 ## Papers
 

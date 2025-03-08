@@ -3,8 +3,9 @@
 
 ## Implementations
 
-- [`torsion_pdb.ipynb`](https://github.com/xnought/paper-implement/blob/main/ramachandran/torsion_pdb.ipynb) (final result)
-- [`torsion.ipynb`](https://github.com/xnought/paper-implement/blob/main/ramachandran/torsion.ipynb)
+- <a target="_blank" href="https://github.com/xnought/paper-implement/blob/main/ramachandran/torsion_pdb.ipynb"><code>torsion_pdb.ipynb</code></a>
+- <a target="_blank" href="https://github.com/xnought/paper-implement/blob/main/ramachandran/torsion.ipynb"><code>torsion.ipynb</code></a>
+
 
 
 ## Papers

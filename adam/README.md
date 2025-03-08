@@ -2,9 +2,7 @@
 
 ## Implementations
 
-- <a href="https://github.com/xnought/paper-implement/blob/main/adam/adam.ipynb" target="_blank">
-	<code>adam.ipynb</code>
-</a>
+- <a href="https://github.com/xnought/paper-implement/blob/main/adam/adam.ipynb" target="_blank"><code>adam.ipynb</code></a>
 
 ## Papers
 
