@@ -1,3 +1,5 @@
+I'm going to wait till this paper get's presented at the conference. There are too many gaps in the paper to reimplement (mostly around how the NSD data is processed and which activations are chosen and why). Neeed more info! Somewhat surprised that reviewers didn't bring this up https://openreview.net/forum?id=IqHeDe2lbl
+
 ## Paper
 - https://aimarvi.github.io/pubs/iclr_marvi_khosla_2025.pdf
 - https://www.wikiwand.com/en/articles/Two-streams_hypothesis
