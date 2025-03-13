@@ -15,6 +15,6 @@
 | Fast Fourier Transform (An Algorithm for the Machine Calculation of Complex Fourier Series)       | [`fft/`](./fft/)                           | ✅     |
 | Sparse Components Distinguish Visual Pathways & Their Alignment To Neural Networks                | [`sca/`](./sca/)                           |        |
 | Algorithms for Non-negative Matrix Factorization                                                  | [`nmf/`](./nmf/)                           | ✅     |
-
+| Universality of representation in biological and artificial neural networks                       | [`universality/`](./universality/)         |        |
 
 ps: If I am totally bored of something, there won't be the full implementation. This repo is more for me to keep track of what I've been working on rather than for you :)
