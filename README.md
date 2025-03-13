@@ -1,6 +1,7 @@
 [Paper Implement Code](https://github.com/xnought/paper-implement/tree/main)
 
-**Key:** (status ✅ indicates finished code, blank indicates not finished or will come back to later)
+**Key:** (status ✅ indicates finished code, 🐢 indicates on hold / will come back to later,
+blank indicates not finished)
 
 | Paper                                                                                             | My Code                                    | Status |
 | ------------------------------------------------------------------------------------------------- | ------------------------------------------ | ------ |
@@ -8,12 +9,12 @@
 | A Learning Algorithm for Boltzmann Machines                                                       | [`boltzmann/`](./boltzmann/)               | ✅     |
 | The First Law of Complexodynamics                                                                 | [`complexo/`](./complexo/)                 | ✅     |
 | Adam: A Method For Stochastic Optimization                                                        | [`adam/`](./adam/)                         | ✅     |
-| Old Optimizer, New Norm: An Anthology                                                             | [`norm/`](./norm/)                         |        |
-| Bitcoin: A Peer-to-Peer Electronic Cash System                                                    | [`bitcoin/`](./bitcoin/)                   |        |
+| Old Optimizer, New Norm: An Anthology                                                             | [`norm/`](./norm/)                         | 🐢     |
+| Bitcoin: A Peer-to-Peer Electronic Cash System                                                    | [`bitcoin/`](./bitcoin/)                   | 🐢     |
 | Ramachandran Plot                                                                                 | [`ramachandran/`](./ramachandran/)         | ✅     |
 | The LLM Language Network: A Neuroscientific Approach for Identifying Causally Task-Relevant Units | [`language_network/`](./language_network/) | ✅     |
 | Fast Fourier Transform (An Algorithm for the Machine Calculation of Complex Fourier Series)       | [`fft/`](./fft/)                           | ✅     |
-| Sparse Components Distinguish Visual Pathways & Their Alignment To Neural Networks                | [`sca/`](./sca/)                           |        |
+| Sparse Components Distinguish Visual Pathways & Their Alignment To Neural Networks                | [`sca/`](./sca/)                           | 🐢     |
 | Algorithms for Non-negative Matrix Factorization                                                  | [`nmf/`](./nmf/)                           | ✅     |
 | Universality of representation in biological and artificial neural networks                       | [`universality/`](./universality/)         |        |
 
