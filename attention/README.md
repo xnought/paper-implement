@@ -4,7 +4,8 @@ I've already implemented attention before, but I always forget the details, so l
 
 ## Implementations
 
-- https://github.com/xnought/biogen (private for now, will make public when done)
+- <a target="_blank" href="https://github.com/xnought/paper-implement/blob/main/attention/attn.ipynb"><code>attn.ipynb</code></a>
+- Transformer training: https://github.com/xnought/biogen (private for now, will make public when done)
 
 ## Papers
 
@@ -19,3 +20,4 @@ I've already implemented attention before, but I always forget the details, so l
 - Positional encodings, but can do learned embedding method instead
 - after MHA, do residual add and norm (layer norm, or parameterized tanh new paper has shown)
 - Followed by MLP with add and norm after it too
+- MHA concats the various attention heads, then projects to an out dimension we agree upon
