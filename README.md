@@ -16,6 +16,6 @@
 | Sparse Components Distinguish Visual Pathways & Their Alignment To Neural Networks                | [`sca/`](./sca/)                           |        |
 | Algorithms for Non-negative Matrix Factorization                                                  | [`nmf/`](./nmf/)                           | ✅     |
 | Universality of representation in biological and artificial neural networks                       | [`universality/`](./universality/)         |        |
-| Attention is all you need                                                                         | [`attention/`](./attention/)               |        |
+| Attention is all you need                                                                         | [`attention/`](./attention/)               | ✅     |
 
 ps: If I am totally bored of something, there won't be the full implementation. This repo is more for me to keep track of what I've been working on rather than for you :)
