@@ -4,12 +4,18 @@ I've already implemented attention before, but I always forget the details, so l
 
 ## Implementations
 
-TODO
+- https://github.com/xnought/biogen (private for now, will make public when done)
 
 ## Papers
 
 - https://arxiv.org/pdf/1706.03762 
 
 ## Notes
+
 - RNNs can work, but are slow due to necessary sequential computations (and have other issues regarding gradients)
-- 
+- Self attention is finding dependencies within itself to create a powerful representation
+- softmax(qk/sqrt(dk))v is scaled dot product attention, multihead is doing that n times and concatenating the result and projecting down to some output dimension
+- Mask is there so we can train next token prediction in parallel. In other words, we model attention only for tokens to predict the next
+- Positional encodings, but can do learned embedding method instead
+- after MHA, do residual add and norm (layer norm, or parameterized tanh new paper has shown)
+- Followed by MLP with add and norm after it too
