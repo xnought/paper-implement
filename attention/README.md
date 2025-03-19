@@ -4,9 +4,9 @@ I've already implemented attention before, but I always forget the details, so l
 
 ## Implementations
 
+- <a target="_blank" href="https://github.com/xnought/biogen/blob/main/model.py"><code>model.py</code></a>
 - <a target="_blank" href="https://github.com/xnought/paper-implement/blob/main/attention/mha.ipynb"><code>mha.ipynb</code></a>
 - <a target="_blank" href="https://github.com/xnought/paper-implement/blob/main/attention/attn.ipynb"><code>attn.ipynb</code></a>
-- Transformer training: https://github.com/xnought/biogen (private for now, will make public when done)
 
 ## Papers
 
