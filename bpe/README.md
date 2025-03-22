@@ -4,6 +4,7 @@
 ## Implementations
 
 - <a target="_blank" href="https://github.com/xnought/paper-implement/blob/main/bpe/bpe.ipynb"><code>bpe.ipynb</code></a>
+- <a target="_blank" href="https://github.com/xnought/bpe.cpp"><code>bpe.cpp</code></a>
 
 ## Papers
 
