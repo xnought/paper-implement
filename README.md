@@ -16,7 +16,6 @@
 | Attention is all you need                                                                         | [`attention/`](./attention/)               | ✅     |
 | Byte Pair Encoding                                                                                | [`bpe/`](./bpe/)                           | ✅     |
 
-
 **Read only notes (no code)**
 
 | Paper                                                                              | My Notes                           | Status |
@@ -24,3 +23,4 @@
 | Sparse Components Distinguish Visual Pathways & Their Alignment To Neural Networks | [`sca/`](./sca/)                   | ✅     |
 | Old Optimizer, New Norm: An Anthology                                              | [`norm/`](./norm/)                 | ✅     |
 | Universality of representation in biological and artificial neural networks        | [`universality/`](./universality/) |        |
+| Functional Imaging of Human Visual Recognition                                     | [`func_vis_rec/`](./func_vis_rec/) |        |
