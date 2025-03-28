@@ -15,7 +15,7 @@
 | Algorithms for Non-negative Matrix Factorization                                                  | [`nmf/`](./nmf/)                           | ✅     |
 | Attention is all you need                                                                         | [`attention/`](./attention/)               | ✅     |
 | Byte Pair Encoding                                                                                | [`bpe/`](./bpe/)                           | ✅     |
-| Kolmogorov-Smirnov Test (KS Test)                                                                 | [`ks/`](./ks/)                             |        |
+| Kolmogorov-Smirnov Test (KS Test)                                                                 | [`ks/`](./ks/)                             | ✅     |
 
 **Read only notes (no code)**
 
@@ -25,7 +25,6 @@
 | Old Optimizer, New Norm: An Anthology                                              | [`norm/`](./norm/)                 | ✅     |
 | Universality of representation in biological and artificial neural networks        | [`universality/`](./universality/) |        |
 | Functional Imaging of Human Visual Recognition                                     | [`func_vis_rec/`](./func_vis_rec/) | ✅     |
-
 
 ## Dev
 

@@ -1,5 +1,8 @@
 # Kolmogorov Smirnov Test
 
+## Implementations
+- <a target="_blank" href="https://github.com/xnought/paper-implement/blob/main/ks/ks.ipynb"><code>ks.ipynb</code></a>
+
 ## Links
 
 - https://www.itl.nist.gov/div898/handbook/eda/section3/eda35g.htm
