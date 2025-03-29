@@ -25,6 +25,7 @@
 | Old Optimizer, New Norm: An Anthology                                              | [`norm/`](./norm/)                 | ✅     |
 | Universality of representation in biological and artificial neural networks        | [`universality/`](./universality/) |        |
 | Functional Imaging of Human Visual Recognition                                     | [`func_vis_rec/`](./func_vis_rec/) | ✅     |
+| fMRI evidence for objects as the unit of attentional selection                     | [`obj_vis_attn/`](./obj_vis_attn/) | ✅     |
 
 ## Dev
 
