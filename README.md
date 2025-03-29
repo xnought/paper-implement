@@ -26,7 +26,7 @@
 | Universality of representation in biological and artificial neural networks        | [`universality/`](./universality/) |        |
 | Functional Imaging of Human Visual Recognition                                     | [`func_vis_rec/`](./func_vis_rec/) | ✅     |
 | fMRI evidence for objects as the unit of attentional selection                     | [`obj_vis_attn/`](./obj_vis_attn/) | ✅     |
-| How Deep Learning can Inform the Functional Organization of the Brain                     | [`dl_func_org/`](./dl_func_org/) |      |
+| How Deep Learning can Inform the Functional Organization of the Brain              | [`dl_func_org/`](./dl_func_org/)   |        |
 
 ## Dev
 
